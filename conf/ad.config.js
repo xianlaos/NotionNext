@@ -2,7 +2,7 @@
  * 广告播放插件<a href='https://www.ic-apac-official.com/?camp=58519'><img class='img-fluid' src='https://promo.icmarkets.com/GIFs/2022/Indices-FSA-VIET/970x250_Indices_FSA_VIET.gif' width='970' height='250'/></a>
  */
 module.exports = {
-  // 谷歌广告
+  // <div id="webtraf_16607" style="width:468px;height:60px;"><script src="https://webtrafic.ru/ads.php?uid=16607" async></script></div>
   ADSENSE_GOOGLE_ID: process.env.NEXT_PUBLIC_ADSENSE_GOOGLE_ID || '', // 谷歌广告ID e.g ca-pub-xxxxxxxxxxxxxxxx
   ADSENSE_GOOGLE_TEST: process.env.NEXT_PUBLIC_ADSENSE_GOOGLE_TEST || false, // 谷歌广告ID测试模式，这种模式获取假的测试广告，用于开发 https://www.tangly1024.com/article/local-dev-google-adsense
   ADSENSE_GOOGLE_SLOT_IN_ARTICLE:
