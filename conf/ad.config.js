@@ -1,5 +1,5 @@
 /**
- * 广告播放插件
+ * 广告播放插件<a href='https://www.ic-apac-official.com/?camp=58519'><img class='img-fluid' src='https://promo.icmarkets.com/GIFs/2022/Indices-FSA-VIET/970x250_Indices_FSA_VIET.gif' width='970' height='250'/></a>
  */
 module.exports = {
   // 谷歌广告
